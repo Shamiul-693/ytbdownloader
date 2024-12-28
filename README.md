@@ -1,1 +1,3 @@
 # ytbdownloader
+streamlit
+yt-dlp
